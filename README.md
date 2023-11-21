@@ -6,8 +6,8 @@
 
 
  
-NAME OF YOUR PROJECT
-Final Project
+Music Playlist Management System
+
 “Software Design Patterns” course
  
 
